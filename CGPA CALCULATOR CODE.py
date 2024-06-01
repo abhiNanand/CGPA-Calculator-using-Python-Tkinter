@@ -1,8 +1,7 @@
-#SHUBHAM  SHUKLA - BAL HANUMAN
-#KARTIK   SHARMA - CHOTA BHEEM
+ 
 #ABHISHEK ANAND
 
-#submitted to: NIDHI ARORA  MA'AM
+ 
 
 from tkinter import*
 window=Tk()
